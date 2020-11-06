@@ -1,0 +1,1 @@
+Whenever You Want To Delete All The Data, Please Set UserCount.txt & TravelCount.txt to 0 (zero)

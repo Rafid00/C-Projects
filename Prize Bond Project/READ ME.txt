@@ -1,0 +1,3 @@
+in order to make this project run
+enter your owned_prize_bond.txt in the same format as it is already in
+and input the prize bond list you want to check inside prizebond1.txt
